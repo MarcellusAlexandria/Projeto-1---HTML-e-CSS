@@ -118,6 +118,16 @@ footer {
     align-items: center;
   }
 
+  .button:hover {
+    cursor: pointer;
+    color: #ffffff;
+    background-color: #8697A6;
+}
+
+.invalid {
+    border: 2px solid red;
+}
+
 
         footer img {
             height: 100px;
